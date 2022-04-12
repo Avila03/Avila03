@@ -1,7 +1,7 @@
 ###  ⚡ Hello, i'm Bruno! ⚡
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-avila-9b36b0237/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](api.whatsapp.com/send?1=pt_BR&phone=555391805610)
-[![Telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/lilbrunin)
+[![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lilbrunin)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avila03&show_icons=true&theme=dracula)
 
