@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avila03&show_icons=true&theme=dracula)
 
 
-⚡ I'm 20y, Studie Scince Computer in PUC-RS ⚡
+
 
 ###  ⚡ Languages I work ⚡
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
